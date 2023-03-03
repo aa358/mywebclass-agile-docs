@@ -6,13 +6,9 @@ solid foundation that ensures our web page meets our business requirements throu
 us up for long-term success.
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
-
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
+* [Develop a user-friendly interface for accessing learning modules and exercises.](initiatives/1.md)
+* [Provide personalized learning experiences based on user preferences and behavior](initiatives/i2.md)
+* [Implement Google Analytics to track website performance and user behavior](initiatives/i3.md)
 
 ## Test plan
 How will this be tested?
