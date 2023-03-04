@@ -11,4 +11,4 @@ us up for long-term success.
 * [Implement Google Analytics to track website performance and user behavior](initiatives/i3.md)
 
 ## Test plan
-How will this be tested?
+Tests for each task is in the task folder
