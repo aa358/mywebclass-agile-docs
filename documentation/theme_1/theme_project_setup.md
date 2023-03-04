@@ -8,4 +8,4 @@ As a web developer, my goal is to create a prominent online presence for MyWebCl
 * [Implement Google Analytics to track website performance and user behavior](initiatives/i3.md)
 
 ## Test plan
-[Tests for each task is in the test folder](/test)
+[Tests for each task is in the task folder](https://github.com/aa358/mywebclass-agile-docs/tree/main/documentation/theme_1/initiatives/epics/stories/tasks)
